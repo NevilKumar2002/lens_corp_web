@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Lens Corporation Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Lens Corporation Website is a comprehensive platform showcasing our company's products, services, achievements, and engaging content. It features various sections including blogs, achievements, FAQs, contact section, navbar, and hero section.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Homepage**: A visually appealing introduction to our company, featuring highlights of our products and services.
+- **Product Catalog**: Browse through our range of products with detailed descriptions, images, and specifications.
+- **Services**: Explore the various services offered by Lens Corporation, including consulting, maintenance, and support.
+- **About Us**: Learn about our company's mission, values, history, and team members.
+- **Blog**: Engage with our content-rich blog, featuring industry insights, product updates, and helpful tips.
+- **Achievements**: Highlighting our company's milestones, awards, and success stories.
+- **FAQs**: Frequently asked questions section to address common queries from customers.
+- **Contact Section**: Easily get in touch with us through a contact form or find our contact details for inquiries and support.
+- **Navbar**: Navigation bar for seamless browsing through different sections of the website.
+- **Hero Section**: Eye-catching section at the top of the homepage to grab visitors' attention and provide key information.
 
-### `npm start`
+## Technologies Used
+React.JS , CSS, Material UI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone the repository:
+   ```bash
+   1.git clone https://github.com/NevilKumar2002/lens_corp_web.git
+   2.cd lens_corp_web
+   3.npm install
+   4.npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Usage
+Open your browser and navigate to http://localhost:3000 to access the website.
+Explore the various sections, navigate through the pages, and interact with the features.
